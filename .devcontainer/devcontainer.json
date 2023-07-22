@@ -1,0 +1,11 @@
+{
+	"image": "ghcr.io/matt9ucci/vscode/devcontainers/ubuntu:22.04",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mhutchie.git-graph",
+			],
+		},
+	},
+	"containerUser": "vscode",
+}
